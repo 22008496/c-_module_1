@@ -1,0 +1,35 @@
+
+# EX.NO : 1(A)  OVERVIEW & STRUCTURE
+
+# PROGRAM STATEMENT: 
+
+Write a c++ program to display "Hello World" in first line and "Welcome to C++ Programming " in next line into the output device?
+
+# ALGORITHM: 
+ 
+1. Start the program. 
+2. Include necessary header files for input/output operations. 
+3. Define the main function. 
+4. Print "Hello World" with a newline. 
+5. Print "Welcome to C++ Programming". 
+6. End the program.
+
+# PROGRAM:   
+
+```
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello World" << endl;
+    cout << "Welcome to C++ Programming" << endl;
+    return 0;
+}
+```
+
+# output:
+
+![image](https://github.com/user-attachments/assets/74aeb3a2-1e48-4bc4-9200-db49923cdfdd)
+
+# Result:
+Thus the display of "Hello World" in first line and "Welcome to C++ Programming " in next line into the output device is executed successfully.
